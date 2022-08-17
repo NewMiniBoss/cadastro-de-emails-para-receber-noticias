@@ -1,6 +1,6 @@
 <h1>Sobre o Projeto</h1>
 
-O projeto foi feito para conter formulário, com o intuito de captação de leads ou newsletter.
+O projeto foi feito para conter um formulário, com o intuito de captação de leads ou newsletter e ser responsivo.
 
 <h2>Linguagens usadas</h2>
 
