@@ -12,10 +12,3 @@ O projeto foi feito para conter um formulário, com o intuito de captação de l
 
 [<a href="https://app.rocketseat.com.br/dashboard">Rocketseat</a>](https://www.rocketseat.com.br/)
 
-<h2>Imagens</h2>
-
-<h3>Desktop:</h3>
-<img src="https://i.ibb.co/xFZ5PRh/LP.png"> 
-
-<h3>Mobile:</h3>
-<img src="https://i.ibb.co/HDBR70N/LP-Resnposive.png"> 
